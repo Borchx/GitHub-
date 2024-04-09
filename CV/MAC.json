@@ -1,0 +1,379 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Borja",
+      "surnames": "Mora Fúnez",
+      "title": "Web / Android Developer",
+      "description": "Experiencia: Me desenvuelvo bien en cualquier trabajo, no importa las tareas a realizar. Trabajo bien en equipo. Organizado y puntual. Buen sentido del humor.\nObjetivos: Desarrollar capacidades y actitudes para crecer en el mundo laboral y personal. No estancarme y no conformarme con lo mínimo.\nEstudiar y renovarme como estilo de vida.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/borja-mora-f%C3%BAnez-589a27119"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Altia",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/09/d1d9d77a-241c-4a8f-b081-e7a92307184b_linkedin-photo-60073.linkedin-photo-60073",
+            "alt": "24/04/09/d1d9d77a-241c-4a8f-b081-e7a92307184b_linkedin-photo-60073.linkedin-photo-60073"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Funciones: -\nWebsite design , front-end y back-end development: Creación y mantenimiento de\nweb sobre CMS Wordpress en (blog.cnmc.es, eic.cnmc.es e icn.cnmc.es). Asi mismo\nsobre CMS Drupal en (cnmc.es y sede.cnmc.es).\n- Instalación de plataformas de desarrollo y pruebas en local, para su posterior subida\na producción, mediante GIT.\n- Creación de formularios web, páginas, y contenido web.\n- Gestión y uso de repositorios en la nube con GIT.\n- Gestión de desastres: - backups de bbdd, máquinas virtuales, local ante desastres\nen la nube.\n- Diseño responsivo: Maquetar y estilar las webs creadas para hacer que el sitio web\nsea accesible y adaptable en todos los devices: tabletas, smartphones, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "---"
+        },
+        "roles": [
+          {
+            "name": "Autónomo",
+            "startDate": "2018-10-01",
+            "finishDate": "2021-12-31",
+            "challenges": [
+              {
+                "description": "Skills: Desarrollo front end · Desarrollo de software · Bases de datos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Spainmedia Magazines",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/09/03ef413d-dfef-4a5f-bf49-1307d58856d2_linkedin-photo-60073.linkedin-photo-60073",
+            "alt": "24/04/09/03ef413d-dfef-4a5f-bf49-1307d58856d2_linkedin-photo-60073.linkedin-photo-60073"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web",
+            "startDate": "2017-02-01",
+            "finishDate": "2021-06-30",
+            "challenges": [
+              {
+                "description": "-Website design , front-end y back-end development: Creación y mantenimiento de\nweb sobre CMS Wordpress ( www.tmagazine.es, forbes.es, tapasmagazine.es, robbreport.es, manonthemoonmag.es, spainmedia.es, spainmediagallery.com, www.forbessummit.es ).\n- Instalación de infraestructuras en la nube con AWS.\n- Instalación de plataformas de desarrollo y pruebas en local.\n- Planificación de actualizaciones, instalación y gestión de sistemas operativos CENTOS.\n- Gestión de servidores de correo y su correcto funcionamiento, formularios web, configuración de envío masivo.\n- Supervisión y modificación del producto final mostrado en web.\n- Integración de nuevos diseños para cualquier formato.\n- Creación de microsites para eventos o campañas publicitarias.\n- Gestión y uso de repositorios en la nube. GIT, BITBUCKET.\n- Prueba e integración de los nuevos requerimientos web de seguridad SSL y HTTP2.\n- Generación de certificados SSL y su renovación.\n- Seguridad: - Protección de los sistemas frente a ataques, frente a la exposición a la red.\n- Gestión de desastres: - backups de bbdd, máquinas virtuales, local ante desastres en la nube.\n- Diseño: Maquetar y estilar las webs creadas.\n\n\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Inserver eLearning Factory",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/09/bb20665e-02fb-45d7-80e4-b3537a5e31f4_linkedin-photo-60073.linkedin-photo-60073",
+            "alt": "24/04/09/bb20665e-02fb-45d7-80e4-b3537a5e31f4_linkedin-photo-60073.linkedin-photo-60073"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web",
+            "startDate": "2016-09-01",
+            "finishDate": "2017-01-31",
+            "challenges": [
+              {
+                "description": "Web Developer, Inserver Elearning Factory, S.L, (Madrid) Funciones: Website design , front-end y back-end development: Realizar labores de diseño responsivo con HTML5, CSS3 y BOOTSTRAP, programación web con JS, JQUERY , PHP y SQL todo ello en plataformas Moodle. Website design: de la plataforma de una O.N.G con WORDPRESS. Investigación: de nuevas tecnologías para Moodle como moodlemobile. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Telepizza S.L"
+        },
+        "roles": [
+          {
+            "name": "Repartidor",
+            "startDate": "2013-01-01",
+            "finishDate": "2017-09-30",
+            "challenges": [
+              {
+                "description": "Atención al Público: Realizar labores de información, solucionar problemas de los\nclientes y orientar sus dudas en función de las necesidades.\n- Elaboración de Productos Alimenticios.\n- Reparto a Domicilio"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cajero-Reponedor, Día S.A"
+        },
+        "roles": [
+          {
+            "name": "Cajero",
+            "startDate": "2008-01-01",
+            "finishDate": "2010-01-31",
+            "challenges": [
+              {
+                "description": "Atención al Público: Realizar labores de información, solucionar problemas de los\nclientes y orientar sus dudas en función de las necesidades.\n- Reposición del Stock en tienda.\n-; : Cobro de los productos en línea de caja."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android SDK",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Varnish",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Agente de Handling",
+        "startDate": "2018-01-01",
+        "institution": {
+          "name": "Futur"
+        },
+        "finishDate": "2019-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Developing Android Apps with Kotlin , Android",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "DevExperto"
+        },
+        "finishDate": "2023-06-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Developing Android Apps with Kotlin , Android",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Udacity",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/09/f8febd85-30fe-4b9b-8398-25ac784027d5_linkedin-photo-60073.linkedin-photo-60073",
+            "alt": "24/04/09/f8febd85-30fe-4b9b-8398-25ac784027d5_linkedin-photo-60073.linkedin-photo-60073"
+          }
+        },
+        "finishDate": "2023-04-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Jetpack Compose",
+        "startDate": "2023-10-01",
+        "institution": {
+          "name": "Appcademy"
+        },
+        "finishDate": "2023-12-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Web, Informática",
+        "startDate": "2014-01-01",
+        "institution": {
+          "name": "IES EL LAGO"
+        },
+        "finishDate": "2016-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior, Desarrollo de Aplicaciones Web; Técnico",
+        "startDate": "2014-01-01",
+        "institution": {
+          "name": "IES EL LAGO"
+        },
+        "finishDate": "2016-01-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/borja-mora-f%C3%BAnez-589a27119",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "borja8bj8@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Software Architect"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Android",
+        "type": "technology"
+      },
+      {
+        "name": "Android Studio",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "Kotlin",
+        "type": "technology"
+      }
+    ]
+  }
+}
